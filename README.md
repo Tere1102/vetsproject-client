@@ -1,13 +1,25 @@
-MIAUYUDA
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Miauyuda, is the final project of Ironhack's bootcamp, was developed in collaboration with Patricia Lago and Oscar Gomez. Is a SPA (Single Page Application) that connects pets with veterinarians to provide 24/7 online assistance.
+# Miauyuda
 
-Technologies used
+Miauyuda is the final project of Ironhack's bootcamp, developed in collaboration with Patricia Lago and Oscar Gomez.  
+It is a **Single Page Application (SPA)** that connects pets with veterinarians to provide **24/7 online assistance**.
 
-Frontend: React, Bootstrap
+---
 
-Backend: Express, Node.js, MongoDB
+## ⚠️ Project Status
+Miauyuda was fully functional at the time of completion in 2024.  
+Currently, some features may not work due to updates in dependencies and hosting platforms.  
+**I plan to revisit and update the project in the coming weeks to restore full functionality.**
 
+---
+
+## Technologies Used
+
+**Frontend:** React, Bootstrap  
+**Backend:** Express, Node.js, MongoDB
+
+---
+
+## Routes
 
 |          URL         |                Description               | Protected |
 |:--------------------:|:----------------------------------------:|-----------|
@@ -26,31 +38,23 @@ Backend: Express, Node.js, MongoDB
 |       /petform       |               Add a new pet              | yes       |
 |           *          |                 404 page                 | no        |
 
-Members of the development team
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-Patricia Lago Espino
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Github: https://github.com/patriiilago
+## Team Members
 
-LinkedIn: https://www.linkedin.com/in/patri-lago
+**Patricia Lago Espino**  
+- Github: [patriiilago](https://github.com/patriiilago)  
+- LinkedIn: [Patricia Lago](https://www.linkedin.com/in/patri-lago)  
 
-Teresa Arranz Carrasco
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Github: https://github.com/Tere1102
+**Teresa Arranz Carrasco**  
+- Github: [Tere1102](https://github.com/Tere1102)  
+- LinkedIn: [Teresa Arranz Carrasco](https://www.linkedin.com/in/teresa-arranz-carrasco)  
 
-LinkedIn: https://www.linkedin.com/in/teresa-arranz-carrasco
+**Oscar Gomez Diez**  
+- Github: [OscarDev83](https://github.com/OscarDev83)  
+- LinkedIn: [Óscar Gómez Díez](https://www.linkedin.com/in/%C3%B3scar-g%C3%B3mez-d%C3%AFez-b967202a/) 
 
-Oscar Gomez Diez
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Github: https://github.com/OscarDev83
+## Deployment
 
-Linkedin: https://www.linkedin.com/in/%C3%B3scar-g%C3%B3mez-d%C3%ADez-b967202a/
-
-DEPLOY CLIENT
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://miauyuda.netlify.app/
-
-DEPLOY SERVER
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://miauyuda.fly.dev/
+**Client:** [https://miauyuda.netlify.app/](https://miauyuda.netlify.app/)  
+**Server:** [https://miauyuda.fly.dev/](https://miauyuda.fly.dev/)
